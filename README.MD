@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshal Sonwane</h1>
-<h3 align="center">Full stack java developer</h3>
-I am engineering graduate of 2023 batch, currently i'm learning @full stack java development on codeacademy. I am also good in Dsa and coding.
-- 🌱 I’m currently learning java full stack development
+<h3 align="center">java developer</h3>
+I am CSE graduate of 2023 batch, currently i'm currently working in tech mahindra as java developer. I am also good in DSA and coding.
+
+-I am know spring,springboot,hybernate,microservices and more things in java.
 
 - 💬 Ask me about **coding, frontend, backend, git, github**
 
